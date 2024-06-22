@@ -1,0 +1,16 @@
+10/31/2013 V2.9.3
+- Foreground color for selected and non-focused items of JYCheckBoxList and JYCheckBoxTree is white instead of black  
+
+--------------------------------------------------------------------------
+08/27/2013 V2.9.2
+- LogoRenderer does not appear
+
+--------------------------------------------------------------------------
+
+06/26/2013 V2.9.1
+- UIManager returns wrong ToolTip background color
+
+--------------------------------------------------------------------------
+
+02/06/2013 V2.9.0
+- First official release.

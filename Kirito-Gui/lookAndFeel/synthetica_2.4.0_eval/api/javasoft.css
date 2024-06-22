@@ -1,0 +1,35 @@
+/* Javadoc style sheet */
+
+/* Define colors, fonts and other style attributes here to override the defaults  */
+
+/* Page background color */
+body { background-color: #FFFFFF; font-size: 100%; font-family: Helvetica, Arial, sans-serif  }
+code { font-size: 100%; font-family: monospace }
+pre  { background-color: #F0F0EE; font-size: 100%; font-family: monospace }
+em   { font-size: 90%; }
+
+/* Table colors */
+.TableHeadingColor     { background: #5C8D95; color:#FFFFFF; font-size: 90%; font-family:  Helvetica, Arial, sans-serif } /* bluegray */
+.TableSubHeadingColor  { background: #5C8D95; color:#FFFFFF; font-size: 90%; font-family:  Helvetica, Arial, sans-serif } /* bluegray */
+.TableRowColor         { background: #F0F0EE; color:#000000; font-size: 90%; font-family:  Helvetica, Arial, sans-serif } /* Light gray */
+
+/* Font used in left-hand frame lists */
+.FrameTitleFont   { font-size: normal; font-family:  Helvetica, Arial, sans-serif}
+.FrameHeadingFont { font-size: normal; font-family:  Helvetica, Arial, sans-serif}
+.FrameItemFont    { font-size: 90%; font-family:  Helvetica, Arial, sans-serif}
+
+/* Example of smaller, sans-serif font in frames */
+.FrameItemFont  { font-size: normal; font-family:  Helvetica, Arial, sans-serif}
+
+/* Navigation bar fonts and colors */
+.NavBarCell1    { background-color:#5C8D95; font-size: small; font-family:  Helvetica, Arial, sans-serif}/* Light gray */
+.NavBarCell1Rev { background-color:#BA0000; font-size: small; font-family:  Helvetica, Arial, sans-serif}/* Dark red */
+.NavBarFont1    { font-family:  Arial, Helvetica, sans-serif; color:#FFFFFF;}
+.NavBarFont1Rev { font-family:  Arial, Helvetica, sans-serif; color:#FFFFFF;}
+
+.NavBarCell2    { font-family:  Arial, Helvetica, sans-serif; background-color:#FFFFFF;}
+.NavBarCell3    { font-family:  Arial, Helvetica, sans-serif; background-color:#FFFFFF;}
+
+a {color: #207880; text-decoration: none}
+a:visited {color: #00A0B0; text-decoration: none}
+a:hover { color: #BA0000; text-decoration: underline}
